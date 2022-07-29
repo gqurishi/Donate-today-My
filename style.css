@@ -1,0 +1,67 @@
+body{
+
+    font-family: 'Oxygen', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto Slab', serif;
+}
+
+.header{
+    padding: 150px 80px;
+    background-image: url(images/donation9.jpg);    
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+
+}
+
+#h1{
+
+    color: white;
+    text-align: center;
+    font-size: 50px;
+    font-weight: bolder;
+}
+
+#p1{
+    
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-weight:bold; 
+    font-size: 20px;   
+}
+
+donate-now{
+
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    background-color: salmon;
+    background-image: linear-gradient(salmon, rgb(208, 37, 37));
+    padding: 10px 40px;
+    border-radius: 5px;
+    
+}
+
+.flex{
+
+    display: flex;
+    margin-bottom: 150px;
+}
+
+
+.positon {
+    text-align: center;
+}
+
+.button {
+   
+    top: 50%;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    background-color: salmon;
+    background-image: linear-gradient(salmon, rgb(208, 37, 37));
+    padding: 10px 40px;
+    border-radius: 5px;
+}
