@@ -14,7 +14,7 @@ body{
 
 }
 
-#h1{
+#h11{
 
     color: white;
     text-align: center;
@@ -28,24 +28,6 @@ body{
     text-align: center;
     font-weight:bold; 
     font-size: 20px;   
-}
-
-donate-now{
-
-    text-decoration: none;
-    color: white;
-    font-weight: bold;
-    background-color: salmon;
-    background-image: linear-gradient(salmon, rgb(208, 37, 37));
-    padding: 10px 40px;
-    border-radius: 5px;
-    
-}
-
-.flex{
-
-    display: flex;
-    margin-bottom: 150px;
 }
 
 
@@ -64,4 +46,21 @@ donate-now{
     background-image: linear-gradient(salmon, rgb(208, 37, 37));
     padding: 10px 40px;
     border-radius: 5px;
+}
+
+
+#h12{
+
+    padding-top: 100px;
+    color: black;
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+#p22{
+    color: black;
+    text-align: center;
+    font-weight:bold; 
+    font-size: 18px; 
 }
